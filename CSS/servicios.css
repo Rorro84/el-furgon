@@ -1,0 +1,25 @@
+.entry-content {
+    text-shadow: 0px 1px 0 #ffffff;
+  }
+  .entry-content a {
+    color: #e37655;
+  }
+  .entry-content strong {
+    font-weight: bold;
+  }
+  .entry-content ul,
+  .entry-content ol {
+    margin-left: 20px;
+  }
+  .entry-content ul {
+    list-style: disc;
+  }
+  .entry-content ol {
+    list-style: decimal;
+  }
+  .entry-content .heading {
+    margin-bottom: 20px;
+  }
+  li{
+      text-align: left;
+  }

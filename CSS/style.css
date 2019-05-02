@@ -1,0 +1,54 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+
+}
+header{
+    text-align: center;
+}
+body{
+    background: black;
+    color: white;
+    
+}
+#nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+#nav li{
+    display: inline;
+    text-align: center;
+    margin:  0 10px 0 0;
+    font-size: 30;
+}
+#nav li{
+    padding: 2px 7px 2px 7px;
+    color: black;
+    background-color: white;
+    border: 1px solid white;
+    text-decoration: none;
+    font: caption;
+}
+#nav li:hover{
+    background-color: white;
+    color: white;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+ul{
+
+    text-align: center;
+
+}
+h4{
+
+    text-align: center;
+}
+
+
